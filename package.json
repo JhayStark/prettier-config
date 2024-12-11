@@ -1,5 +1,5 @@
 {
-  "name": "prettier",
+  "name": "joel-prettier-config",
   "version": "1.0.0",
   "description": "Prettier configuration for our organization",
   "main": "index.js",
