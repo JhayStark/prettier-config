@@ -1,0 +1,18 @@
+{
+  "name": "prettier",
+  "version": "1.0.0",
+  "description": "Prettier configuration for our organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": [
+    "prettier",
+    "configuration",
+    "eslint"
+  ],
+  "author": "Joel",
+  "license": "MIT"
+}
